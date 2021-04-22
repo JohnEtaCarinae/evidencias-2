@@ -6,7 +6,7 @@
 | Autor | Miguel Angel Vargas Pérez - 21/04/2021 |
 | Nombre | Guardar un usuario nuevo |
 | Descripción | Guardar un destino de viaje |
-| Datos entrada | |
+| Datos entrada | Cedula/Tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol del usuario (estudiante o profesor) |
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ01 |
