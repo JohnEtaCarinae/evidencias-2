@@ -11,7 +11,7 @@
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ01 |
 | Precondiciones | |
-| Postcondiciones | |
+| Postcondiciones | Regresar a la página de inicio de sesión para que el usuario pueda iniciar sesión con el registro creado |
 | Mockup | ![Registro](https://user-images.githubusercontent.com/79241017/115654977-e1921080-a2f7-11eb-97a2-4b55e7e072fa.png) |
 
 ## Flujo
