@@ -1,1 +1,4 @@
-### Listado general de casos de uso
+### Listado general de casos de uso.
+| Código | Descripción | Prioridad  |
+|--------------------------|--------------------------------|--------------------------|--------------------------------|
+| RQ01 | Se requiere que la aplicación tenga un espacio donde pueda llenar mi información personal (Identificación (Cédula/Tarjeta de identidad), nombre, apellido, correo electrónico, número de contacto y contraseña) La identificación se necesita para el acceso a la plataforma, igual que la contraseña, los nombres y apellidos serán para mostrarlos en la interfaz mientras que el correo y numero telefónico se usarán como medios de recuperación de contraseña y proporcionar información. Al ingresar el usuario podrá elegir si es profesor o alumno, esto se hace para determinar las acciones que tendrá en la plataforma, si es estudiante podrá registrarse en diferentes clases pero si es profesor, podrá crear y registrarse en clases. Todos los usuarios deben poder modificar la información cuando lo requieran, verificando antes la contraseña.| Christian David Rodríguez Quiroga | Miguel Angel Vargas Pérez |
