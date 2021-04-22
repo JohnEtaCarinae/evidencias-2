@@ -28,5 +28,6 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-| | |
-| | |
+| 3. Los datos son vacíos | 3.1 No se guardan datos |
+| | 3.2 Mostrar un mensaje en pantalla que diga "Diligencia los campos por favor" |
+| | 3.3 Volver a la pantalla de registro |
