@@ -21,6 +21,8 @@
 |2. Hacer clic en el botón "Registrarse" | |
 | | 3. Validar que los datos no estén vacíos |
 | | 4. Validar que los datos no sean los mismos que otros que se hayan guardado anteriormente |
+| | 5. Guardar la información |
+| | 6. Devolver a la pantalla de inicio de sesión |
 
 
 ## Excepciones
