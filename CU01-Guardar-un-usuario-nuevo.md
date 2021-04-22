@@ -22,5 +22,6 @@
 
 ## Excepciones
 | Paso | Solución |
+|-------|-------|
 | | |
 | | |
