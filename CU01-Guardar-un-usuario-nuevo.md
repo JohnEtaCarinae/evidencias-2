@@ -17,8 +17,11 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| | |
-| | |
+|1. Diligenciar los datos de entrada | |
+|2. Hacer clic en el botón "Registrarse" | |
+| | 3. Validar que los datos no estén vacíos |
+| | 4. Validar que los datos no sean los mismos que otros que se hayan guardado anteriormente |
+
 
 ## Excepciones
 | Paso | Solución |
