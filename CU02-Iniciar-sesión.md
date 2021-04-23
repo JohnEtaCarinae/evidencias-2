@@ -12,7 +12,8 @@
 | Requerimiento base | RQ01 |
 | Precondiciones | |
 | Postcondiciones | | 
-| Mockup | |
+| Mockup | ![Iniciar Sesion](https://user-images.githubusercontent.com/79241017/115935948-e1118b00-a459-11eb-8d69-1c6f8fc6f556.png)
+ |
 
 ## Flujo
 | Actor | Sistema |
