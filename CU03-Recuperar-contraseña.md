@@ -20,7 +20,7 @@
 | 1. Diligenciar los datos de entrada | |
 | 2. Hacer clic en el botón "Validar" | |
 | | 3. Validar que los campos no estén vacíos |
-| | 4. Validar que los datos ingresados (correo y número telefónico) coincidan con los datos ingresados en un registro de usuarii |
+| | 4. Validar que los datos ingresados (correo y número telefónico) coincidan con los datos ingresados en un registro de usuario |
 | | 5. Enviar el correo electrónico al usuario con la nueva contraseña |
 | | 6. Mostrar un mensaje en pantalla que diga "Se ha enviado a su correo la nueva contraseña" |
 | | 7. Devolver a la pantalla de inicio de sesión |
@@ -28,8 +28,9 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  | 
-|  |  |
+| 3. Los datos se encuentran vacíos | 3.1 No se envía el correo  |
+|  | 3.2 Mostrar un mensaje en pantalla que diga "Diligencia los campos por favor" |
+|  | 3.3 Volver a la pantalla de recuperación de contraseña |
+| 4. Los datos ingresados no se encuentran registrados | 4.1 No se envía el correo | 
+|  | 4.2 Mostrar un mensaje en pantalla que diga "Correo electrónico o número telefónico incorrecto" |
+|  | 4.3 Volver a la pantalla de recuperación de contraseña |
