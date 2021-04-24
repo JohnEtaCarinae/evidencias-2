@@ -17,20 +17,22 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1. Hacer clic en botón "Unirse a una nueva clase" |  |
+|  | 2. Abrir una ventana donde aparezca un mensaje de texto para ingresar el código de la clase |
+| 3. Digitar el código de clase |  |
+| 4. Hacer clic en el botón "Unirse" |  |
+|  | 5. Validar que los datos no estén vacíos |
+|  | 6. Verificar si el código digitado por el usuario existe |
+|  | 7. Agregar la nueva clase a la pantalla principal del estudiante |
+|  | 8. Devolver a la pantalla principal del estudiante |
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 3. El campo se encuentra vacío | 3.1 No se hace la verificación de si el código existe |
+|  | 3.2 No se agrega una nueva clase a la pantalla principal del estudiante |
+|  | 3.3 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
+| 3. El código digitado no existe | 3.1  |
 |  |  |
 |  |  |
