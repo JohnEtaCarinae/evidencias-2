@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 21/04/2021 |
 | Nombre | Entrar a una clase |
-| Descripción |  |
+| Descripción | Permitir a un estudiante ingresar a una clase mediante el ingreso de un código en un campo de texto. |
 | Datos entrada |  |
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
