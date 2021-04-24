@@ -18,9 +18,11 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| | |
-| | |
-| | |
+| 1. Diligenciar los datos de entrada| |
+| 2. Hacer clic en el botón "Iniciar sesión"  | |
+| | 3. Validar que los datos no estén vacíos |
+| | 4. Validar que los datos ingresados hayan sido registrados con anterioridad |
+| | 5. Llevar al usuario a la pantalla de inicio de la aplicación |
 
 ## Excepciones
 | Paso | Solución |
