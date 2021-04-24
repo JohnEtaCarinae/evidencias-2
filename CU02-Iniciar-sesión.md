@@ -27,5 +27,9 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-| | |
-| | |
+| 3. Los datos se encuentran vacíos | 3.1 No se guarda la información |
+| | 3.2 Mostrar un mensaje en pantalla que diga "Diligencia los campos por favor" |
+| | 3.3 Volver a la pantalla de inicio de sesión |
+| 4. Los datos ingresados no coinciden con ningún registro que se haya hecho | 4.1 No se abre la pantalla de inicio de la aplicación |
+| | 4.2 Mostrar un mensaje en pantalla que diga "El usuario es incorrecto o no se encontró el registro" |
+| | 4.3 Volver a la pantalla de inicio de sesión |
