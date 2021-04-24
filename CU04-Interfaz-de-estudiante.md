@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 24/04/2021 |
 | Nombre | Interfaz de estudiante |
-| Descripción |  |
+| Descripción | Se refiere a la pantalla que verá el usuario, en este caso el estudiante, el cuál podrá unirse a una clase o modificar los datos dependiendo de su necesidad |
 | Datos entrada |  |
 | Datos salida |  |
 | Actor | Christian David Rodríguez Quiroga |
