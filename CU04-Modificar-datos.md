@@ -11,7 +11,8 @@
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ01 |
 | Precondiciones | Tener guardados los datos en un registro que se haya hecho anteriormente por el usuario. Haber hecho clic en el botón de "Modificar datos" |
-| Postcondiciones | 1. Guardar el registro nuevamente pero ahora con los datos que haya modificado el usuario. 2. Regresar a la pantalla de inicio de la aplicación |
+| Postcondiciones | 1. Guardar el registro nuevamente pero ahora con los datos que haya modificado el usuario. 
+2. Regresar a la pantalla de inicio de la aplicación |
 | Mockup | ![Modificar Datos](https://user-images.githubusercontent.com/79241017/115972754-e16f5c00-a515-11eb-9838-ea057b02655f.png) |
 
 ## Flujo
