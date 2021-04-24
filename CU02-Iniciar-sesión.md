@@ -10,8 +10,8 @@
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ01 |
-| Precondiciones | |
-| Postcondiciones | | 
+| Precondiciones | Se guardan los datos ingresados en el registro y pueden usarse para el inicio de sesión |
+| Postcondiciones | Se pasa a la interfaz de la aplicación | 
 | Mockup | ![Iniciar Sesion](https://user-images.githubusercontent.com/79241017/115935948-e1118b00-a459-11eb-8d69-1c6f8fc6f556.png)
  |
 
