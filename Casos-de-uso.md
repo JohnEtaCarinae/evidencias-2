@@ -5,3 +5,4 @@
 | [CU02](CU02-Iniciar-sesión) | Iniciar sesión | Media |
 | [CU03](CU03-Recuperar-contraseña) | Recuperar contraseña | Baja |
 | [CU04](CU04-Modificar-datos) | Modificar datos | Baja |
+| CU05 | Entrar a una clase | Media |
