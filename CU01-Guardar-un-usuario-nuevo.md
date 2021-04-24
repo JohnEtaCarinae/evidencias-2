@@ -20,7 +20,7 @@
 |1. Diligenciar los datos de entrada | |
 |2. Hacer clic en el botón "Registrarse" | |
 | | 3. Validar que los datos no estén vacíos |
-| | 4. Validar que los datos no sean los mismos que otros que se hayan guardado anteriormente |
+| | 4. Validar que los datos no sean los mismos que otros que se hayan guardado anteriormente. Principalmente la cédula/tarjeta de identidad y el correo electrónico |
 | | 5. Guardar la información |
 | | 6. Devolver a la pantalla de inicio de sesión |
 
@@ -31,3 +31,5 @@
 | 3. Los datos son vacíos | 3.1 No se guardan datos |
 | | 3.2 Mostrar un mensaje en pantalla que diga "Diligencia los campos por favor" |
 | | 3.3 Volver a la pantalla de registro |
+| 4. El correo electrónico o la cedula/tarjeta de identidad ingresados son los mismos que los ingresados en un registro hecho anteriormente | 4.1 No se guardan los datos |
+| | 4.2 Mostrar mensaje en pantalla que diga "Ese usuario ya se encuentra registrado" |
