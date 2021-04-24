@@ -33,3 +33,4 @@
 | | 3.3 Volver a la pantalla de registro |
 | 4. El correo electrónico o la cedula/tarjeta de identidad ingresados son los mismos que los ingresados en un registro hecho anteriormente | 4.1 No se guardan los datos |
 | | 4.2 Mostrar mensaje en pantalla que diga "Ese usuario ya se encuentra registrado" |
+| | 4.3 Volver a la pantalla de registro |
