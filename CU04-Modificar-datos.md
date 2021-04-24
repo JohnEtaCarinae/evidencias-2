@@ -20,22 +20,23 @@
 | 1. Hacer clic en el botón "Modificar" de uno de los datos  |  |
 |  | 2. Muestra una pantalla para modificar el dato que se quiere cambiar (Pantalla de modificación de datos 2) |
 | 3. Digita en la casilla de texto como quiere que quede el dato nuevo |  |
-| 4. Hacer clic en el botón "Modificar" |  |
-|  | 5. Devuelve a la pantalla de modificación de datos |
-| 6. Digita la contraseña en el campo que aparece en la parte inferior |  |
-| 7. Hacer clic en el botón "Guardar cambios" |  |
-|  | 8. Validar que el campo de contraseña no se encuentre vacío |
-|  | 9. Guardar la nueva información  |
-|  | 10. Devolver a la pantalla de interfaz principal |  
+|  | 4. Validar que el dato no se encuentre vacío |
+| 5. Hacer clic en el botón "Modificar" |  |
+|  | 6. Devuelve a la pantalla de modificación de datos |
+| 7. Digita la contraseña en el campo que aparece en la parte inferior |  |
+| 8. Hacer clic en el botón "Guardar cambios" |  |
+|  | 9. Validar que el campo de contraseña no se encuentre vacío |
+|  | 10. Guardar la nueva información  |
+|  | 11. Devolver a la pantalla de interfaz principal |  
 
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 3. El dato se encuentra vacío | 3.1 No se sale de la ventana |
+|  | 3.2 Se muestra un mensaje que dice "Diligencie los campos por favor" |
+|  | 3.3 Seguir en la pantalla de modificación de datos 2 |
+| 7. El campo de contraseña se encuentra vacío | 7.1 No se modifican los datos |
+|  | 7.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
+|  | 7.3 Regresar a la pantalla de modificación de datos |
