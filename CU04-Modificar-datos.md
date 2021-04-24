@@ -17,12 +17,17 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1. Hacer clic en el botón "Modificar" de uno de los datos  |  |
+|  | 2. Muestra una pantalla para modificar el dato que se quiere cambiar (Pantalla de modificación de datos 2) |
+| 3. Digita en la casilla de texto como quiere que quede el dato nuevo |  |
+| 4. Hacer clic en el botón "Modificar" |  |
+|  | 5. Devuelve a la pantalla de modificación de datos |
+| 6. Digita la contraseña en el campo que aparece en la parte inferior |  |
+| 7. Hacer clic en el botón "Guardar cambios" |  |
+|  | 8. Validar que el campo de contraseña no se encuentre vacío |
+|  | 9. Guardar la nueva información  |
+|  | 10. Devolver a la pantalla de interfaz principal |  
+
 
 
 ## Excepciones
