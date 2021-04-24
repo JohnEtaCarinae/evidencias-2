@@ -3,3 +3,4 @@
 |--------------------------|--------------------------------|--------------------------|
 | [CU01](CU01-Guardar-un-usuario-nuevo) | Guardar un usuario nuevo | Media | 
 | [CU02](CU02-Iniciar-sesión) | Iniciar sesión | Media |
+| [CU03](CU03-Recuperar-contraseña) | Recuperar contraseña | Baja |
