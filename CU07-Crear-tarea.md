@@ -28,4 +28,9 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
+| 3. Los campos están vacíos | 3.1 No se guarda la información |
+|  | 3.2 Se muestra un mensaje en pantalla que diga "Es necesario llenar todos los datos para crear una nueva tarea" |
+|  | 3.3 Permanece en la pantalla de crear una tarea |
+| 4. La fecha ingresada es una fecha que ya pasó | 4.1 No se guarda la información |
+|  | 4.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
+|  | 4.3 Permanece en la pantalla de crear una tarea |
