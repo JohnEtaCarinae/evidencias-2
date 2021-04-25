@@ -34,9 +34,9 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-| 3. El dato se encuentra vacío | 3.1 No se sale de la ventana |
-|  | 3.2 Se muestra un mensaje que dice "Diligencie los campos por favor" |
-|  | 3.3 Permanecer en la pantalla de modificación de datos 2 |
+| 4. El dato se encuentra vacío | 4.1 No se sale de la ventana |
+|  | 4.2 Se muestra un mensaje que dice "Diligencie los campos por favor" |
+|  | 4.3 Permanecer en la pantalla de modificación de datos 2 |
 | 7. El campo de contraseña se encuentra vacío | 7.1 No se modifican los datos |
 |  | 7.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
 |  | 7.3 Permanecer en la pantalla de modificación de datos |
