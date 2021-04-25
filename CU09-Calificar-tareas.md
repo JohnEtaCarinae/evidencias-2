@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 25/04/2021 |
 | Nombre | Calificar tareas |
-| Descripción | Guardar la información de la calificación de una tarea que hace un profesor a un estudiante. Este podrá calificarla al acceder a la pantalla de tareas calificadas, a la cual se llega dando clic al botón Entregas de una determinada tarea de una clase. Aquí aparecerán la lista de estudiantes que le entregaron la tara y podrá verlas y calificarlas dando clic en el botón "Calificar", si quiere modificar la nota le da clic en el botón "Modificar" para cambiar la nota. Por último, cuando ya se tengan todas las tareas calificadas el profesor hará clic en "Guardar cambios". Cuando el profesor califica la tarea el sistema automáticamente calcula un porcentaje de rendimiento con base a las notas de los estudiantes  |
+| Descripción | Guardar la información de la calificación de una tarea que hace un profesor a un estudiante. Este podrá calificarla al acceder a la pantalla de tareas calificadas, a la cual se llega dando clic al botón Entregas de una determinada tarea de una clase. Aquí aparecerán la lista de estudiantes que le entregaron la tara y podrá verlas y calificarlas dando clic en el botón "Calificar", si quiere modificar la nota le da clic en el botón "Modificar" para cambiar la nota. Por último, cuando ya se tengan todas las tareas calificadas el profesor hará clic en "Guardar cambios". Cuando el profesor califica la tarea el sistema automáticamente calcula un porcentaje de rendimiento con base a las notas de los estudiantes.  |
 | Datos entrada | Nota de la tarea |
 | Datos salida | Puntuación final de la tarea y porcentaje de rendimiento |
 | Actor | Christian David Rodríguez Quiroga |
@@ -34,7 +34,10 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 7. Los datos están vacíos | 7.1 No se hace una validación de nota |
+|  | 7.2 No se guarda la información |
+|  | 7.3 Se muestra un mensaje en pantalla que diga "Se requiere digitar una nota para continuar" |
+|  | 7.4 Permanecer en la pantalla de calificación de tarea en proceso |
+| 8. La nota es menor que 1 o mayor que 5 | 8.1 No se guarda la información |
+|  | 8.2 Se muestra un mensaje en pantalla que diga "La nota no puede tomar ese valor" |
+|  | 8.3 Permanecer en la pantalla de calificación de tarea en proceso |
