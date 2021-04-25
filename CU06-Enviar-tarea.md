@@ -17,7 +17,7 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| 1. El estudiante adjunta digita información en el campo de texto que se encuentra debajo de la descripción  |  |
+| 1. El estudiante adjunta digita información en el campo de texto que se encuentra debajo de la descripción (opcional)  |  |
 | 2. El estudiante hace clic en el botón de "Adjuntar archivo"  |  |
 |  | 3. Abre el explorador de archivos de la computadora |
 | 4. Selecciona el archivo que desea subir  |  |
@@ -30,9 +30,5 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| N/A | N/A |
+
