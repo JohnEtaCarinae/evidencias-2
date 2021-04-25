@@ -20,8 +20,16 @@
 | 1. Hacer clic en el botón "Entregas" |  |
 |  | 2. Dirigir al usuario a la pantalla de tareas calificadas |
 | 3. Hacer clic en el botón "Calificar" |  |
-|  | 4. Dirigir al usuario a la tarea del estudiante para que la visualice y la califique |
-|  |  |
+|  | 4. Dirigir al usuario a la pantalla de calificación de tarea en proceso |
+| 5. Digitar la calificación de la tarea |  |
+| 6. Hacer clic en el botón "Guardar calificación" |  |
+|  | 7. Validar que los datos no estén vacíos |
+|  | 8. Validar que el valor de la nota sea uno entre 1 y 5 incluyendo decimales |
+|  | 9. Mostrar un mensaje en pantalla que diga "Se ha calificado la tarea" |
+|  | 10. Guardar la información |
+|  | 11. Dirigir al usuario a la pantalla de tareas calificadas |
+| 12. Hacer clic en "Guardar cambios" |  |
+|  | 13. Guardar la información |
 
 ## Excepciones
 | Paso | Solución |
