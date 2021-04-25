@@ -12,7 +12,7 @@
 | Requerimiento base | RQ05 |
 | Precondiciones | Darle clic al botón de "Notas". Que las notas se hayan cargado en el sistema |
 | Postcondiciones |  |
-| Mockup | ![Ver notas](https://user-images.githubusercontent.com/79241017/116010466-b869cc80-a5e4-11eb-93fe-5aceb60a1701.png) |
+| Mockup | ![Pantalla estudiante](https://user-images.githubusercontent.com/79241017/116012649-4c419580-a5f1-11eb-9368-565df8e6dabb.png) ![Ver notas](https://user-images.githubusercontent.com/79241017/116010466-b869cc80-a5e4-11eb-93fe-5aceb60a1701.png) |
 
 ## Flujo
 | Actor | Sistema |
