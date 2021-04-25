@@ -12,7 +12,7 @@
 | Requerimiento base | RQ04 |
 | Precondiciones | Haber creado una clase, haber hecho clic en el botón de "Nueva tarea" |
 | Postcondiciones | Tarea nueva en la clase creada |
-| Mockup |  |
+| Mockup | ![Nueva tarea](https://user-images.githubusercontent.com/79241017/115978514-85243080-a545-11eb-9ff7-10589dafe59c.png) |
 
 ## Flujo
 | Actor | Sistema |
