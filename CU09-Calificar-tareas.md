@@ -12,7 +12,7 @@
 | Requerimiento base | RQ05 |
 | Precondiciones | Haber cargado todas las tareas de los estudiantes correctamente (las entregas se debieron hacer correctamente y se debieron guardar) |
 | Postcondiciones | Calificación almacenada en el sistema y porcentaje de rendimiento calculado. |
-| Mockup | ![Tareas entregadas](https://user-images.githubusercontent.com/79241017/116012983-45b41d80-a5f3-11eb-81a1-b2ab628e6c1f.png) ![Calificar tareas](https://user-images.githubusercontent.com/79241017/116012989-49e03b00-a5f3-11eb-9e58-534ec00aaf8d.png) |
+| Mockup | ![Tareas entregadas](https://user-images.githubusercontent.com/79241017/116012983-45b41d80-a5f3-11eb-81a1-b2ab628e6c1f.png) ![Calificar tareas](https://user-images.githubusercontent.com/79241017/116012989-49e03b00-a5f3-11eb-9e58-534ec00aaf8d.png) ![Calificación de tareas](https://user-images.githubusercontent.com/79241017/116013323-3df57880-a5f5-11eb-92ad-37585821b35d.png) |
 
 ## Flujo
 | Actor | Sistema |
