@@ -20,9 +20,11 @@
 | 1. El estudiante adjunta digita información en el campo de texto que se encuentra debajo de la descripción  |  |
 | 2. El estudiante hace clic en el botón de "Adjuntar archivo"  |  |
 |  | 3. Abre el explorador de archivos de la computadora |
-| 4.  |  |
-|  |  |
-
+| 4. Selecciona el archivo que desea subir  |  |
+|  | 5. Carga el archivo en la tarea |
+| 6. Hace clic en Guardar progreso/Enviar |  |
+|  | 7. Guarda la tarea para poder modificarla hasta antes de la fecha de entrega/Envía la tarea sin dar opción de modificar |
+|  | 8. Devuelve al estudiante a la pantalla anterior  |
 
 
 ## Excepciones
