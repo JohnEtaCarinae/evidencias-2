@@ -39,4 +39,3 @@
 | 8. La fecha ingresada es una fecha que ya pasó | 8.1 No se guarda la información |
 |  | 8.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
 |  | 8.3 Permanecer en la pantalla de creación de tareas" |
-
