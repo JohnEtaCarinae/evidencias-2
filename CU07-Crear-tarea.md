@@ -17,24 +17,26 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| 1. Hacer clic en el botón "Nueva tarea" |  |
-|  | 2. Dirigir al usuario a la pantalla de creación de tareas |
-| 3. Diligenciar los datos de entrada |  |
-| 4. Hacer clic en el botón "Guardar" |  |
-|  | 5. Validar que los campos no estén vacíos |
-|  | 6. Validar que la fecha ingresada sea una que no haya pasado |
-|  | 7. Guardar la información |
-|  | 8. Dirigir al usuario a la pantalla de modificación de clase |
+| 1. Hacer clic en el botón "Modificar" de una clase |
+|  | 2. Dirigir al usuario a la pantalla de modificación de clase |
+| 3. Hacer clic en el botón "Nueva tarea" |  |
+|  | 4. Dirigir al usuario a la pantalla de creación de tareas |
+| 5. Diligenciar los datos de entrada |  |
+| 6. Hacer clic en el botón "Guardar" |  |
+|  | 7. Validar que los campos no estén vacíos |
+|  | 8. Validar que la fecha ingresada sea una que no haya pasado |
+|  | 9. Guardar la información |
+|  | 10. Dirigir al usuario a la pantalla de modificación de clase |
 
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-| 5. Los campos están vacíos | 5.1 No se guarda la información |
-|  | 5.2 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
-|  | 5.3 Permanecer en la pantalla de creación de tareas |
-| 6. La fecha ingresada es una fecha que ya pasó | 6.1 No se guarda la información |
-|  | 6.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
-|  | 6.3 Permanecer en la pantalla de creación de tareas" |
+| 7. Los campos están vacíos | 7.1 No se guarda la información |
+|  | 7.2 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
+|  | 7.3 Permanecer en la pantalla de creación de tareas |
+| 8. La fecha ingresada es una fecha que ya pasó | 8.1 No se guarda la información |
+|  | 8.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
+|  | 8.3 Permanecer en la pantalla de creación de tareas" |
 
