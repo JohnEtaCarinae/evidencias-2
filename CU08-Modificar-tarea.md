@@ -12,7 +12,7 @@
 | Requerimiento base | RQ04 |
 | Precondiciones | Haber persistido una tarea anteriormente. |
 | Postcondiciones | Tarea modificada cargada en el sistema. Regresar a la página de creación de tarea |
-| Mockup | ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificar una clase](https://user-images.githubusercontent.com/79241017/116014218-cbd36280-a5f9-11eb-901f-acaa0b673537.png)  |
+| Mockup | ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificar una clase](https://user-images.githubusercontent.com/79241017/116014218-cbd36280-a5f9-11eb-901f-acaa0b673537.png) ![Modificar tarea](https://user-images.githubusercontent.com/79241017/116023507-d8fc4b80-a611-11eb-970c-afc4e7b51480.png)  |
 
 ## Flujo
 | Actor | Sistema |
