@@ -36,4 +36,3 @@
 |  | 3.4 Permanecer en la pantalla de ingreso de código |
 | 3. El código digitado no existe |No 3.1 Se muestra un mensaje en pantalla que diga "No se encuentra la clase"  |
 |  | 3.2 Permanecer en la pantalla de ingreso de código |
-|  |  |
