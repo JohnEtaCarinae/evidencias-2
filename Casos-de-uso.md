@@ -10,4 +10,5 @@
 | [CU07](CU07-Crear-tarea) | Crear tarea | Alta |
 | [CU08](CU08-Ver-notas) | Ver notas | Media |
 | [CU09](CU09-Calificar-tareas) | Calificar tareas | Alta |
+| [CU10](CU10-Crear-una-clase) | Crear una clase | Media |
 
