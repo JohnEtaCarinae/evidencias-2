@@ -22,15 +22,19 @@
 | 3. Diligenciar los datos de entrada |  |
 | 4. Hacer clic en el botón "Guardar" |  |
 |  | 5. Validar que los campos no estén vacíos |
-|  | 6. Validar que la fecha  |
+|  | 6. Validar que la fecha ingresada sea una que no haya pasado |
 |  | 7. Guardar la información |
+|  | 8. Dirigir al usuario a la pantalla de modificación de clase |
 
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
+| 5. Los campos están vacíos | 5.1 No se guarda la información |
+|  | 5.2 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
+|  | 5.3 Permanecer en la pantalla de creación de tareas |
+| 6. La fecha ingresada es una fecha que ya pasó | 6.1 No se guarda la información |
+|  | 6.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
+|  | 6.3 Permanecer en la pantalla de creación de tareas" |
 
