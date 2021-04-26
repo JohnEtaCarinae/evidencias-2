@@ -34,6 +34,6 @@
 |  | 3.2 No se agrega una nueva clase a la pantalla principal del estudiante |
 |  | 3.3 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
 |  | 3.4 Permanecer en la pantalla de ingreso de código |
-| 3. El código digitado no existe | 3.1 Se muestra un mensaje en pantalla que diga "No se encuentra la clase"  |
+| 3. El código digitado no existe |No 3.1 Se muestra un mensaje en pantalla que diga "No se encuentra la clase"  |
 |  | 3.2 Permanecer en la pantalla de ingreso de código |
 |  |  |
