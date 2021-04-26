@@ -10,7 +10,7 @@
 | [CU07](CU07-Crear-tarea) | Crear tarea | Alta |
 | [CU08](CU08-Modificar-tarea) | Modificar tarea | Alta |
 | [CU09](CU09-Enviar-tarea) | Enviar tarea | Alta |
-| [CU09](CU09-Calificar-tareas) | Calificar tareas | Alta |
+| [CU10](CU10-Calificar-tareas) | Calificar tareas | Alta |
 | [CU08](CU08-Ver-notas) | Ver notas | Media |
 
 
