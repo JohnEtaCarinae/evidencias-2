@@ -12,35 +12,37 @@
 | Requerimiento base | RQ01 |
 | Precondiciones | Tener guardados los datos en un registro que se haya hecho anteriormente por el usuario. Haber hecho clic en el botón de "Modificar datos" |
 | Postcondiciones | 1. Guardar el registro nuevamente pero ahora con los datos que haya modificado el usuario. 2. Regresar a la pantalla de inicio de la aplicación |
-| Mockup | ![Modificar Datos](https://user-images.githubusercontent.com/79241017/115972754-e16f5c00-a515-11eb-9838-ea057b02655f.png) ![Modificar datos 2](https://user-images.githubusercontent.com/79241017/115973379-344b1280-a51a-11eb-8bb7-ce9a9f286728.png)|
+| Mockup | ![Interfaz estudiante](https://user-images.githubusercontent.com/79241017/116017293-d1827580-a604-11eb-9d26-77ad7f74196d.png) ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificar Datos](https://user-images.githubusercontent.com/79241017/115972754-e16f5c00-a515-11eb-9838-ea057b02655f.png) ![Modificar datos 2](https://user-images.githubusercontent.com/79241017/115973379-344b1280-a51a-11eb-8bb7-ce9a9f286728.png)|
 
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| 1. Hacer clic en el botón "Modificar" de uno de los datos  |  |
-|  | 2. Muestra una pantalla para modificar el dato que se quiere cambiar (Pantalla de modificación de datos 2) |
-| 3. Digita en la casilla de texto como quiere que quede el dato nuevo |  |
-|  | 4. Validar que el dato no se encuentre vacío |
-| 5. Hacer clic en el botón "Modificar" |  |
-|  | 6. Devuelve a la pantalla de modificación de datos |
-| 7. Digita la contraseña en el campo que aparece en la parte inferior |  |
-| 8. Hacer clic en el botón "Guardar cambios" |  |
-|  | 9. Validar que el campo de contraseña no se encuentre vacío |
-|  | 10. Guardar la nueva información  |
-|  | 11. Devolver a la pantalla de interfaz principal |  
+| 1. Hacer clic en el botón "Modificar datos" |  |
+|  | 2. Dirigir al usuario a la pantalla de modificación de datos |
+| 3. Hacer clic en el botón "Modificar" de uno de los datos  |  |
+|  | 4. Muestra una pantalla para modificar el dato que se quiere cambiar (Pantalla de modificación de datos 2) |
+| 5. Digita en la casilla de texto como quiere que quede el dato nuevo |  |
+|  | 6. Validar que el dato no se encuentre vacío |
+| 7. Hacer clic en el botón "Modificar" |  |
+|  | 8. Devuelve a la pantalla de modificación de datos |
+| 9. Digita la contraseña en el campo que aparece en la parte inferior |  |
+| 10. Hacer clic en el botón "Guardar cambios" |  |
+|  | 11. Validar que el campo de contraseña no se encuentre vacío |
+|  | 12. Guardar la nueva información  |
+|  | 13. Devolver a la pantalla de interfaz principal |  
 
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-| 4. El dato se encuentra vacío | 4.1 No se sale de la ventana |
-|  | 4.2 Se muestra un mensaje que dice "Diligencie los campos por favor" |
-|  | 4.3 Permanecer en la pantalla de modificación de datos 2 |
-| 7. El campo de contraseña se encuentra vacío | 7.1 No se modifican los datos |
-|  | 7.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
-|  | 7.3 Permanecer en la pantalla de modificación de datos |
-| 7. La contraseña digitada no coincide con la del usuario | 7.1 No se modifican los datos |
-| | 7.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
-| | 7.3 Permanecer en la pantalla de modificación de datos |
+| 6. El dato se encuentra vacío | 6.1 No se sale de la ventana |
+|  | 6.2 Se muestra un mensaje que dice "Diligencie los campos por favor" |
+|  | 6.3 Permanecer en la pantalla de modificación de datos 2 |
+| 11. El campo de contraseña se encuentra vacío | 11.1 No se modifican los datos |
+|  | 11.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
+|  | 11.3 Permanecer en la pantalla de modificación de datos |
+| 11. La contraseña digitada no coincide con la del usuario | 11.1 No se modifican los datos |
+| | 11.2 Se muestra un mensaje en pantalla que dice "No es posible modificar los datos, la contraseña no es correcta" |
+| | 11.3 Permanecer en la pantalla de modificación de datos |
 
