@@ -17,16 +17,22 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| 1.  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1. Hacer clic en el botón "Modificar" |  |
+|  | 2. Dirigir al usuario a la pantalla de modificación de tareas |
+| 3. Diligenciar los datos de entrada |  |
+| 4. Hacer clic en el botón "Guardar cambios" |  |
+|  | 5. Validar que los campos no estén vacíos  |
+|  | 6. Validar que la fecha ingresada sea una que no haya pasado |
+|  | 7. Guardar los datos |
+|  | 8. Regresar a la pantalla de modificación de clase |
 
 
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 5. Los campos están vacíos | 5.1 No guardar los datos |
+|  | 5.2 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
+|  | 5.3 Permanecer en la pantalla de modificación de tareas |
+| 6 La fecha ingresada es una fecha que ya pasó | 6.1 No se guarda la información |
+|  | 6.2 Se muestra un mensaje en pantalla que diga "No se puede ingresar esa fecha" |
+|  | 6.3 Permanecer en la pantalla de modificación de tareas |
