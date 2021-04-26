@@ -22,7 +22,7 @@
 | 3. Diligenciar los datos de entrada |  |
 | 4. Hacer clic en "Crear clase"  |  |
 |  | 5. Validar que los datos no estén vacíos |
-|  | 6. Se guardan los cambios |
+|  | 6. Se guardan los datos |
 |  | 7. Mostrar un mensaje en pantalla que diga "Se ha creado la clase" |
 |  | 8. Dirigir al usuario a la pantalla de interfaz de profesor |
 
@@ -30,7 +30,6 @@
 ## Excepciones
 | Paso | Solución |
 |-------|-------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 5. Los datos se encuentran vacíos | 5.1 No se guardan los datos |
+|  | 5.2 Se muestra un mensaje en pantalla que diga "Diligencia los campos por favor" |
+|  | 5.3 Permanecer en la pantalla de creación de clase |
