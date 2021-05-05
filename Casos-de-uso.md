@@ -1,8 +1,8 @@
 ### Listado general de casos de uso.
 | Código | Nombre corto | Prioridad  |
 |--------------------------|--------------------------------|--------------------------|
-| [CU01](CU01-Guardar-un-usuario-nuevo) | Guardar un usuario nuevo | Media | 
-| [CU02](CU02-Iniciar-sesión) | Iniciar sesión | Media |
+| [CU01](CU01-Guardar-un-usuario-nuevo) | Guardar un usuario nuevo | Alta | 
+| [CU02](CU02-Iniciar-sesión) | Iniciar sesión | Alta |
 | [CU03](CU03-Recuperar-contraseña) | Recuperar contraseña | Baja |
 | [CU04](CU04-Modificar-datos) | Modificar datos | Baja |
 | [CU05](CU05-Crear-una-clase) | Crear una clase | Alta |
