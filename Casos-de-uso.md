@@ -6,7 +6,6 @@
 | [CU03](CU03-Recuperar-contraseña) | Recuperar contraseña | Baja |
 | [CU04](CU04-Modificar-datos) | Modificar datos | Baja |
 | [CU05](CU05-Crear-una-clase) | Crear una clase | Alta |
-| CU06 | Modificar una clase | Media |
 | [CU06](CU06-Entrar-a-una-clase) | Entrar a una clase | Media |
 | [CU07](CU07-Crear-tarea) | Crear tarea | Alta |
 | [CU08](CU08-Modificar-tarea) | Modificar tarea | Alta |
