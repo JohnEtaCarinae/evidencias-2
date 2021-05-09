@@ -8,7 +8,7 @@
 | [CU05](CU05-Crear-una-clase) | Crear una clase | Alta |
 | [CU06](CU06-Crear-tarea) | Crear tarea | Alta |
 | [CU07](CU07-Modificar-tarea) | Modificar tarea | Alta |
-| [CU06](CU06-Entrar-a-una-clase) | Entrar a una clase | Media |
+| [CU08](CU08-Entrar-a-una-clase) | Entrar a una clase | Media |
 | [CU09](CU09-Enviar-tarea) | Enviar tarea | Alta |
 | [CU10](CU10-Calificar-tareas) | Calificar tareas | Alta |
 | [CU11](CU11-Ver-notas) | Ver notas | Media |
