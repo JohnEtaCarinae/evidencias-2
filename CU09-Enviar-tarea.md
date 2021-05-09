@@ -9,7 +9,7 @@
 | Datos entrada | Información adicional a la tarea, archivos. |
 | Datos salida | Tarea lista para calificar |
 | Actor | Christian David Rodríguez Quiroga |
-| Requerimiento base | RQ03 - RQ04 |
+| Requerimiento base | RQ05 |
 | Precondiciones | 1. Que el profesor haya subido la tarea y se encuentre cargada en la clase. 2. Haber seleccionado la tarea para subir  |
 | Postcondiciones | Tarea enviada lista para calificar |
 | Mockup | ![Enviar tarea](https://user-images.githubusercontent.com/79241017/115975527-2d78cb80-a52b-11eb-8cf3-3d579b82ee5e.png) |
