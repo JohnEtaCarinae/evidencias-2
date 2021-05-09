@@ -9,7 +9,7 @@
 | Datos entrada | Nota de la tarea |
 | Datos salida | Puntuación final de la tarea y porcentaje de rendimiento |
 | Actor | Christian David Rodríguez Quiroga |
-| Requerimiento base | RQ05 |
+| Requerimiento base | RQ06 |
 | Precondiciones | Haber cargado todas las tareas de los estudiantes correctamente (las entregas se debieron hacer correctamente y se debieron guardar) |
 | Postcondiciones | Calificación almacenada en el sistema, porcentaje de rendimiento calculado y se devuelve a la pantalla de entregas |
 | Mockup | ![Tareas entregadas](https://user-images.githubusercontent.com/79241017/116013770-76965180-a5f7-11eb-928f-05ddc8272404.png) ![Calificar tareas](https://user-images.githubusercontent.com/79241017/116012989-49e03b00-a5f3-11eb-9e58-534ec00aaf8d.png) ![Calificación de tareas](https://user-images.githubusercontent.com/79241017/116013323-3df57880-a5f5-11eb-92ad-37585821b35d.png) |
