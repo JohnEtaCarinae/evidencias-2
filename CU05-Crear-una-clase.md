@@ -12,7 +12,7 @@
 | Requerimiento base | RQ02 |
 | Precondiciones | Cargar la opción de crear una clase |
 | Postcondiciones | Nueva información (clase con tareas) en el sistema y retorno a la pantalla de interfaz profesor |
-| Mockup | ![Interfaz profesor (inicial)](https://user-images.githubusercontent.com/79241017/117558193-c2f28000-b040-11eb-9119-654624707ba9.png) ![Crear una clase](https://user-images.githubusercontent.com/79241017/116014181-a7778600-a5f9-11eb-8e54-63bace5d1b23.png) ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) |
+| Mockup | ![Interfaz profesor (inicial)](https://user-images.githubusercontent.com/79241017/117558193-c2f28000-b040-11eb-9119-654624707ba9.png) ![Crear una clase](https://user-images.githubusercontent.com/79241017/116014181-a7778600-a5f9-11eb-8e54-63bace5d1b23.png) ![Interfaz profesor 0,5](https://user-images.githubusercontent.com/79241017/117558685-0b13a180-b045-11eb-8a05-27cdcab0575d.png) |
 
 ## Flujo
 | Actor | Sistema |
