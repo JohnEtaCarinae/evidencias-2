@@ -19,7 +19,7 @@
 |-------|-------|
 | 1. Hacer clic en el botón "Modificar datos" |  |
 |  | 2. Dirigir al usuario a la pantalla de modificación de datos |
-| 3. Hacer clic en el botón "Modificar" de uno de los datos  |  |
+| 3. Hacer clic en el botón "Modificar" que aparece al lado del dato que se quiere cambiar  |  |
 |  | 4. Muestra una pantalla para modificar el dato que se quiere cambiar (Pantalla de modificación de datos 2) |
 | 5. Digita en la casilla de texto como quiere que quede el dato nuevo |  |
 |  | 6. Validar que el dato no se encuentre vacío |
