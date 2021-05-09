@@ -25,6 +25,7 @@
 |  | 6. Se guardan los datos |
 |  | 7. Mostrar un mensaje en pantalla que diga "Se ha creado la clase" |
 |  | 8. Dirigir al usuario a la pantalla de interfaz de profesor |
+|  | 9. Mostrar en la pantalla de interfaz de profesor las clases que el docente haya creado con la opción de modificarlas |
 
 
 ## Excepciones
