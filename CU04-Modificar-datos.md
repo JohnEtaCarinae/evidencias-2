@@ -12,7 +12,8 @@
 | Requerimiento base | RQ01 |
 | Precondiciones | 1) Tener un registro guardado en la base de datos. 2) Haber hecho clic en el botón de "Modificar datos" |
 | Postcondiciones | 1) Guardar el registro nuevamente pero ahora con los datos que haya modificado el usuario. 2) Regresar a la pantalla de inicio de la aplicación |
-| Mockup | ![Interfaz estudiante](https://user-images.githubusercontent.com/79241017/116017293-d1827580-a604-11eb-9d26-77ad7f74196d.png) ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificar Datos](https://user-images.githubusercontent.com/79241017/115972754-e16f5c00-a515-11eb-9838-ea057b02655f.png) ![Modificar datos 2](https://user-images.githubusercontent.com/79241017/115973379-344b1280-a51a-11eb-8bb7-ce9a9f286728.png)|
+| Mockup | ![Interfaz estudiante (inicial)](https://user-images.githubusercontent.com/79241017/117558114-c5080f00-b03f-11eb-9807-7bc93d6abbf5.png)
+ ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificar Datos](https://user-images.githubusercontent.com/79241017/115972754-e16f5c00-a515-11eb-9838-ea057b02655f.png) ![Modificar datos 2](https://user-images.githubusercontent.com/79241017/115973379-344b1280-a51a-11eb-8bb7-ce9a9f286728.png)|
 
 ## Flujo
 | Actor | Sistema |
