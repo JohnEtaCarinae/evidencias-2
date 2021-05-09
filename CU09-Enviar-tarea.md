@@ -12,7 +12,7 @@
 | Requerimiento base | RQ05 |
 | Precondiciones | 1. Que el profesor haya subido la tarea y se encuentre cargada en la clase. 2. Haber seleccionado la tarea para subir  |
 | Postcondiciones | Tarea enviada lista para calificar |
-| Mockup | ![Enviar tarea](https://user-images.githubusercontent.com/79241017/115975527-2d78cb80-a52b-11eb-8cf3-3d579b82ee5e.png) |
+| Mockup | ![Interfaz estudiante](https://user-images.githubusercontent.com/79241017/117560134-bfff8b80-b050-11eb-84eb-5c5c0de94254.png) ![Enviar tarea](https://user-images.githubusercontent.com/79241017/115975527-2d78cb80-a52b-11eb-8cf3-3d579b82ee5e.png) |
 
 ## Flujo
 | Actor | Sistema |
