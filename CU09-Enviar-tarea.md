@@ -17,14 +17,18 @@
 ## Flujo
 | Actor | Sistema |
 |-------|-------|
-| 1. El estudiante adjunta digita información en el campo de texto que se encuentra debajo de la descripción (opcional)  |  |
-| 2. El estudiante hace clic en el botón de "Adjuntar archivo"  |  |
-|  | 3. Abre el explorador de archivos de la computadora |
-| 4. Selecciona el archivo que desea subir  |  |
-|  | 5. Carga el archivo en la tarea |
-| 6. Hace clic en Guardar progreso/Enviar |  |
-|  | 7. Guarda la tarea para poder modificarla hasta antes de la fecha de entrega/Envía la tarea sin dar opción de modificar |
-|  | 8. Devuelve al estudiante a la pantalla anterior  |
+| 1. Hacer clic en una de las clases |  |
+|  | 2. Dirigir a la pantalla de tareas |
+| 3. Hacer clic en una de las tareas |  |
+|  | 4. Dirigir a la pantalla dentro de la tarea |
+| 5. El estudiante adjunta digita información en el campo de texto que se encuentra debajo de la descripción (opcional)  |  |
+| 6. El estudiante hace clic en el botón de "Adjuntar archivo"  |  |
+|  | 7. Abre el explorador de archivos de la computadora |
+| 8. Selecciona el archivo que desea subir  |  |
+|  | 9. Carga el archivo en la tarea |
+| 10. Hace clic en Guardar progreso/Enviar |  |
+|  | 11. Guarda la tarea para poder modificarla hasta antes de la fecha de entrega/Envía la tarea sin dar opción de modificar |
+|  | 12. Devuelve al estudiante a la pantalla de tareas |
 
 
 ## Excepciones
