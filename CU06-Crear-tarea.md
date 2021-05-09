@@ -11,7 +11,7 @@
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ03 |
 | Precondiciones | Haber cargado la opción de crear una tarea. Haber hecho clic en "Nueva tarea" |
-| Postcondiciones | Tarea cargada en el sistema. Regresar a la página de creación de tarea |
+| Postcondiciones | Tarea cargada en el sistema. Regresar a la página de creación de tarea. Datos de la tarea guardados. |
 | Mockup | ![Interfaz profesor](https://user-images.githubusercontent.com/79241017/116014437-e78b3880-a5fa-11eb-8c42-b9930a9ed56e.png) ![Modificación de tarea](https://user-images.githubusercontent.com/79241017/117559287-a575e400-b049-11eb-9b23-a81040113b33.png) ![Nueva tarea](https://user-images.githubusercontent.com/79241017/116015118-d2fc6f80-a5fd-11eb-9893-c4c67de406d3.png) ![Modificar una clase](https://user-images.githubusercontent.com/79241017/116014218-cbd36280-a5f9-11eb-901f-acaa0b673537.png) |
 
 ## Flujo
