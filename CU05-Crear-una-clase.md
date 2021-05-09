@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 25/04/2021 |
 | Nombre | Crear una clase |
-| Descripción | Crear una clase para que un profesor pueda subir información (tareas) que pueda ser vista por los alumnos. Los datos que se van a guardar son:  título de la clase y código de la clase. Esta se podrá modificar para que el profesor pueda cambiar el nombre a su clase o subir tareas si así lo requiere. Al darle clic al botón de "Crear clase" se deberán guardar los datos de título de clase y código de la clase. Para modificarla deberá hacer clic en el botón "Modificar" sobre una clase y podrá añadir sus tareas. Cuando se está modificando una clase y se da clic en el botón "Guardar cambios" se debe guardar toda la información que modificó el profesor y eliminar en caso de que el profesor haya decidido borrar información  |
+| Descripción | Crear una clase para que un profesor pueda subir información (tareas) que pueda ser vista por los alumnos. Los datos que se van a guardar son:  título de la clase y código de la clase. Esta se podrá modificar para que el profesor pueda cambiar el nombre a su clase o subir tareas si así lo requiere. Al darle clic al botón de "Crear clase" se deberán guardar los datos de título de clase y código de la clase. La clase guardada se mostrará en la pantalla inicial de la interfaz del profesor. |
 | Datos entrada | Título de la clase y código de la clase |
 | Datos salida | Nueva clase en sistema |
 | Actor | Christian David Rodríguez Quiroga |
