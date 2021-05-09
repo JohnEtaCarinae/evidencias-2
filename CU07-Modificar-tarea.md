@@ -9,7 +9,7 @@
 | Datos entrada | Título de la tarea, descripción de la tarea, fecha de entrega y rúbrica de evaluación |
 | Datos salida | Tarea modificada en el sistema |
 | Actor | Christian David Rodríguez Quiroga |
-| Requerimiento base | RQ04 |
+| Requerimiento base | RQ03 |
 | Precondiciones | Haber persistido una tarea anteriormente. |
 | Postcondiciones | Tarea modificada cargada en el sistema. Regresar a la página de creación de tarea |
 | Mockup | ![Modificar una clase](https://user-images.githubusercontent.com/79241017/116014218-cbd36280-a5f9-11eb-901f-acaa0b673537.png) ![Modificar tarea](https://user-images.githubusercontent.com/79241017/116023507-d8fc4b80-a611-11eb-970c-afc4e7b51480.png)  |
