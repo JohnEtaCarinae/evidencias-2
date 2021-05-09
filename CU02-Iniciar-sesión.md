@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 23/04/2021 |
 | Nombre | Iniciar sesión |
-| Descripción | Con el registro hecho, se piden los datos de cédula/tarjeta de identidad y contraseña para que el usuario ya registrado pueda acceder a la aplicación dando clic en el botón "Iniciar sesión", estos dos datos deben coincidir con los que el usuario hizo en el registro, en el caso de que no sea así se muestra un mensaje en pantalla que dice "El usuario es incorrecto o no se encontró el registro". Por otra parte, si los datos son correctos el usuario habrá ingresado a la pantalla principal de la aplicación |
+| Descripción | Iniciar sesión con los datos que se ingresaron en el registro hecho por el usuario. Se piden los datos de cédula/tarjeta de identidad y contraseña para que el usuario ya registrado pueda acceder a la aplicación dando clic en el botón "Iniciar sesión", estos dos datos deben coincidir con los que el usuario hizo en el registro, en el caso de que no sea así se muestra un mensaje en pantalla que dice "El usuario es incorrecto o no se encontró el registro". Por otra parte, si los datos son correctos el usuario habrá ingresado a la pantalla principal de la aplicación |
 | Datos entrada | Cédula/Tarjeta de identidad y contraseña |
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
