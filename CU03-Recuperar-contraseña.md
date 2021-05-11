@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 24/04/2021 |
 | Nombre | Recuperar contraseña |
-| Descripción | Recuperar la contraseña del usuario a partir del ingreso del correo electrónico y el número telefónico en caso de que el usuario la haya olvidado. Este correo electrónico y número telefónico deben estar guardados en uno de los registros de usuario hecho. En caso de ingresar los datos correctos se enviará un mensaje al correo electrónico del usuario donde se le informe de su nueva contraseña y se le enviará a la pantalla de inicio de sesión, de lo contrario aparecerá un mensaje en pantalla que diga "Correo electrónico o número telefónico incorrecto".  |
+| Descripción | Recuperar la contraseña del usuario a partir del ingreso del correo electrónico y el número telefónico en caso de que el usuario la haya olvidado. Este correo electrónico y número telefónico deben estar guardados en uno de los registros de usuario hecho. En caso de ingresar los datos correctos se obtendrá de nuevo la contraseña y si no coinciden no podrá obtenerla. |
 | Datos entrada | Correo electrónico y número telefónico |
 | Datos salida | Mensaje con nueva contraseña del usuario |
 | Actor | Christian David Rodríguez Quiroga |
