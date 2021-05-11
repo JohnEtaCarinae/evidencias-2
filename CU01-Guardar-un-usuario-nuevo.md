@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 21/04/2021 |
 | Nombre | Guardar un usuario nuevo |
-| Descripción | Guardar la información de cédula o tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol de usuario ya sea estudiante o profesor. El rol se selecciona en una casilla combo box. Al terminar el registro y hacer clic en el botón "Registrarse" deberá guardar los datos y devolverlo a la pantalla inicial donde se encuentra el inicio de sesión. |
+| Descripción | Guardar la información de cédula o tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol de usuario ya sea estudiante o profesor.  |
 | Datos entrada | Cedula/Tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol del usuario (estudiante o profesor) |
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
