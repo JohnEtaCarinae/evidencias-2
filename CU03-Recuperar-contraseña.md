@@ -10,8 +10,8 @@
 | Datos salida | Mensaje con nueva contraseña del usuario |
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ01 |
-| Precondiciones | Tener un registro guardado en la base de datos |
-| Postcondiciones | Envío de mensaje al correo electrónico de usuario con la nueva contraseña |
+| Precondiciones | Tener un registro guardado en la base de datos. |
+| Postcondiciones | Envío de contraseña al usuario. |
 | Mockup | ![Recuperar contraseña](https://user-images.githubusercontent.com/79241017/115967382-f50bca00-a4f7-11eb-9b42-32801b6e60c7.png)  |
 
 ## Flujo
