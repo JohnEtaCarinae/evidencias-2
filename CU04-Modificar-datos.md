@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 24/04/2021 |
 | Nombre | Modificar datos |
-| Descripción | Modificar los datos registrados por el usuario mediante una nueva entrada de datos. Estos se podrán modificar al dar clic en el botón "Modificar" que aparece dentro de la interfaz de la aplicación, al darle clic saldrá una nueva pantalla con un campo de texto donde se podrá digitar el nuevo dato que se quiere cambiar. Los datos que se podrán modificar son los mismos de registro: Cédula/Tarjeta de identidad, nombre, apellido, correo electrónico y número telefónico. Para modificar estos datos es necesario digitar la contraseña al final del formulario, si no se digita o no es correcta no se podrán modificar los datos y se mostrará un mensaje que diga "No es posible modificar los datos, la contraseña no es correcta".  |
+| Descripción | Modificar los datos registrados por el usuario mediante una nueva entrada de datos. Los datos que se podrán modificar son los mismos de registro: Cédula/Tarjeta de identidad, nombre, apellido, correo electrónico y número telefónico. Para modificar estos datos es necesario digitar la contraseña al final del formulario, si no se digita la contraseña o no es correcta no se podrán modificar los datos y se mostrará un mensaje que diga "No es posible modificar los datos, la contraseña no es correcta". |
 | Datos entrada | Contraseña |
 | Datos salida | N/A |
 | Actor | Christian David Rodríguez Quiroga |
