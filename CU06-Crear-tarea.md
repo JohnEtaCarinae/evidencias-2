@@ -5,7 +5,7 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 24/04/2021 |
 | Nombre | Crear tarea |
-| Descripción | Crear una nueva tarea mediante la persistencia de la siguiente información: título de la tarea, descripción de la tarea y una rúbrica de evaluación. El título y la descripción se pondrán mediante un campo de texto, la fecha se seleccionará mediante un calendario que se pondrá al pararse sobre el campo para evitar que se escriba cosas que no correspondan a una fecha y la rubrica podrá ser creada como una tabla nueva a gusto del profesor. Si los campos se encuentran vacíos o no se lleno algún dato no será posible crear la tarea. En caso de que se hayan llenado todos los campos correctamente se añade la nueva tarea a la clase y devuelve al profesor a la pantalla anterior antes de haber ingresado a la parte de creación de tareas. |
+| Descripción | Crear una nueva tarea mediante la persistencia de la siguiente información: título de la tarea, descripción de la tarea y una rúbrica de evaluación. El título y la descripción se pondrán mediante un campo de texto, la fecha se seleccionará mediante un calendario que se pondrá al pararse sobre el campo para evitar que se escriba cosas que no correspondan a una fecha y la rubrica podrá ser creada como una tabla nueva a gusto del profesor. |
 | Datos entrada | Título de la tarea, descripción de la tarea, fecha de entrega y rúbrica de evaluación |
 | Datos salida | Tarea en el sistema |
 | Actor | Christian David Rodríguez Quiroga |
