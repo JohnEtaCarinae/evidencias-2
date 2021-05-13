@@ -5,10 +5,10 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 21/04/2021 |
 | Nombre | Guardar un usuario nuevo |
-| Descripción | Guardar la información de cédula o tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol de usuario ya sea estudiante o profesor.  |
+| Descripción | Guardar la información de cédula o tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol de usuario ya sea estudiante o profesor. Esta es información necesaria para poder acceder a la aplicación. |
 | Datos entrada | Cedula/Tarjeta de identidad, nombre, apellido, correo electrónico, número de contacto, contraseña y rol del usuario (estudiante o profesor) |
 | Datos salida | N/A |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Estudiante/Profesor |
 | Requerimiento base | RQ01 |
 | Precondiciones | Cargar las opciones de estudiante y profesor. |
 | Postcondiciones | 1) Datos de registro persistidos en la base de datos. 2) Regreso a la pantalla de inicio. |
