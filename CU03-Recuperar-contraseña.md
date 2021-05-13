@@ -8,7 +8,7 @@
 | Descripción | Recuperar la contraseña del usuario a partir del ingreso del correo electrónico y el número telefónico en caso de que el usuario la haya olvidado. Este correo electrónico y número telefónico deben estar guardados en uno de los registros de usuario hecho. En caso de ingresar los datos correctos se obtendrá de nuevo la contraseña y si no coinciden no podrá obtenerla. |
 | Datos entrada | Correo electrónico y número telefónico |
 | Datos salida | Mensaje con nueva contraseña del usuario |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Estudiante/Profesor |
 | Requerimiento base | RQ01 |
 | Precondiciones | Tener un registro guardado en la base de datos. |
 | Postcondiciones | Envío de contraseña al usuario. |
