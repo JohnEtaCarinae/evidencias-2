@@ -8,7 +8,7 @@
 | Descripción | Crear una nueva tarea mediante la persistencia de la siguiente información: título de la tarea, descripción de la tarea y una rúbrica de evaluación. El título y la descripción se pondrán mediante un campo de texto, la fecha se seleccionará mediante un calendario que se pondrá al pararse sobre el campo para evitar que se escriba cosas que no correspondan a una fecha y la rubrica podrá ser creada como una tabla nueva a gusto del profesor. |
 | Datos entrada | Título de la tarea, descripción de la tarea, fecha de entrega y rúbrica de evaluación |
 | Datos salida | Tarea en el sistema |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Profesor |
 | Requerimiento base | RQ03 |
 | Precondiciones | 1) Haber cargado la opción de crear una tarea. 2) Haber cargado la clase donde se quiere poner la tarea. |
 | Postcondiciones | 1) Tarea cargada en el sistema. 2) Regresar a la página de creación de tarea. 3) Datos de la tarea guardados. |
