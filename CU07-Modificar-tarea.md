@@ -8,7 +8,7 @@
 | Descripción | Modificar la información de una tarea ya creada por un profesor. Esta información puede referirse al título de la tarea, descripción de la tarea, cambiar la fecha de entrega, modificar la rúbrica de evaluación e incluso eliminar la tarea si así lo desea el profesor.|
 | Datos entrada | Título de la tarea, descripción de la tarea, fecha de entrega y rúbrica de evaluación |
 | Datos salida | Tarea modificada en el sistema |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Profesor |
 | Requerimiento base | RQ03 |
 | Precondiciones | 1) Haber persistido una tarea anteriormente. 2) Haber cargado la tarea. |
 | Postcondiciones | 1) Tarea modificada cargada en el sistema. 2) Regresar a la página de creación de tarea |
