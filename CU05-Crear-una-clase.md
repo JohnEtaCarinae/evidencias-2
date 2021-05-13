@@ -8,7 +8,7 @@
 | Descripción | Crear una clase para que un profesor pueda subir información (tareas) que pueda ser vista por los alumnos. Los datos que se van a guardar son: título de la clase y código de la clase. Esta se podrá modificar para que el profesor pueda subir tareas cuando lo necesite. Al crear la clase se deberán guardar los datos de título de clase y código de la clase. La clase guardada se mostrará en la pantalla inicial de la interfaz del profesor. |
 | Datos entrada | Título de la clase y código de la clase |
 | Datos salida | Nueva clase en sistema |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Profesor |
 | Requerimiento base | RQ02 |
 | Precondiciones | Cargar la opción de crear una clase |
 | Postcondiciones | 1) Clase guardada en la base de datos y en la interfaz de la aplicación. 2) Retorno a la pantalla de interfaz profesor. |
