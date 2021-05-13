@@ -21,8 +21,8 @@
 | 2. Hacer clic en el botón "Validar" | |
 | | 3. Validar que todos los campos no estén vacíos |
 | | 4. Validar que los datos ingresados (correo y número telefónico) coincidan con los datos ingresados en un registro de usuario |
-| | 5. Enviar el correo electrónico al usuario con la nueva contraseña |
-| | 6. Mostrar un mensaje en pantalla que diga "Se ha enviado a su correo la nueva contraseña" |
+| | 5. Enviar al usuario la nueva contraseña |
+| | 6. Mostrar un mensaje en pantalla que diga "Se ha enviado la nueva contraseña" |
 | | 7. Devolver a la pantalla de inicio de sesión |
 
 ## Excepciones
