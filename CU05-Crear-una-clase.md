@@ -5,13 +5,13 @@
 |-------|-------|
 | Autor | Miguel Angel Vargas Pérez - 25/04/2021 |
 | Nombre | Crear una clase |
-| Descripción | Crear una clase para que un profesor pueda subir información (tareas) que pueda ser vista por los alumnos. Los datos que se van a guardar son:  título de la clase y código de la clase. Esta se podrá modificar para que el profesor pueda cambiar el nombre a su clase o subir tareas si así lo requiere. Al darle clic al botón de "Crear clase" se deberán guardar los datos de título de clase y código de la clase. La clase guardada se mostrará en la pantalla inicial de la interfaz del profesor. |
+| Descripción | Crear una clase para que un profesor pueda subir información (tareas) que pueda ser vista por los alumnos. Los datos que se van a guardar son: título de la clase y código de la clase. Esta se podrá modificar para que el profesor pueda subir tareas cuando lo necesite. Al crear la clase se deberán guardar los datos de título de clase y código de la clase. La clase guardada se mostrará en la pantalla inicial de la interfaz del profesor. |
 | Datos entrada | Título de la clase y código de la clase |
 | Datos salida | Nueva clase en sistema |
 | Actor | Christian David Rodríguez Quiroga |
 | Requerimiento base | RQ02 |
 | Precondiciones | Cargar la opción de crear una clase |
-| Postcondiciones | Nueva información (clase con tareas) en el sistema y retorno a la pantalla de interfaz profesor |
+| Postcondiciones | 1) Clase guardada en la base de datos y en la interfaz de la aplicación. 2) Retorno a la pantalla de interfaz profesor. |
 | Mockup | ![Interfaz profesor (inicial)](https://user-images.githubusercontent.com/79241017/117558193-c2f28000-b040-11eb-9119-654624707ba9.png) ![Crear una clase](https://user-images.githubusercontent.com/79241017/116014181-a7778600-a5f9-11eb-8e54-63bace5d1b23.png) ![Interfaz profesor 0,5](https://user-images.githubusercontent.com/79241017/117558685-0b13a180-b045-11eb-8a05-27cdcab0575d.png) |
 
 ## Flujo
