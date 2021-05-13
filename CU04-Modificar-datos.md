@@ -8,7 +8,7 @@
 | Descripción | Modificar los datos registrados por el usuario mediante una nueva entrada de datos. Los datos que se podrán modificar son los mismos de registro: Cédula/Tarjeta de identidad, nombre, apellido, correo electrónico y número telefónico. Para modificar estos datos es necesario digitar la contraseña al final del formulario, si no se digita la contraseña o no es correcta no se podrán modificar los datos y se mostrará un mensaje que diga "No es posible modificar los datos, la contraseña no es correcta". |
 | Datos entrada | Contraseña |
 | Datos salida | N/A |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Estudiante/Profesor |
 | Requerimiento base | RQ01 |
 | Precondiciones | Tener un registro guardado en la base de datos. |
 | Postcondiciones | 1) Guardar el registro nuevamente en la base de datos pero ahora con los datos que haya modificado el usuario. 2) Regresar a la pantalla de inicio de la aplicación. |
