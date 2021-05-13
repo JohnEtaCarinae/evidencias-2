@@ -8,7 +8,7 @@
 | Descripción | Iniciar sesión con los datos de cédula/tarjeta de identidad y contraseña que el usuario realizó en su registro para que este usuario ya registrado pueda acceder a la aplicación. Estos dos datos deben coincidir con los que el usuario hizo en el registro, en el caso de que no sea así no le permitirá ingreso a la aplicación. |
 | Datos entrada | Cédula/Tarjeta de identidad y contraseña |
 | Datos salida | N/A |
-| Actor | Christian David Rodríguez Quiroga |
+| Actor | Estudiante/Profesor |
 | Requerimiento base | RQ01 |
 | Precondiciones | Registro guardado en una base de datos para poder iniciar sesión |
 | Postcondiciones | Dirigir al usuario la interfaz de la aplicación | 
