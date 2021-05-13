@@ -10,7 +10,7 @@
 | [CU07](CU07-Modificar-tarea) | Modificar tarea | Alta |
 | [CU08](CU08-Entrar-a-una-clase) | Entrar a una clase | Media |
 | [CU09](CU09-Enviar-tarea) | Enviar tarea | Alta |
-| [CU10](CU10-Calificar-tareas) | Calificar tareas | Alta |
+| [CU10](CU10-Guardar-calificación) | Guardar calificación | Alta |
 | [CU11](CU11-Ver-notas) | Ver notas | Media |
 
 
