@@ -1,0 +1,1 @@
+A continuación el diagrama de concepto que describe las clases que se utilizan en el proyecto y las distintas variables que utiliza cada una.
