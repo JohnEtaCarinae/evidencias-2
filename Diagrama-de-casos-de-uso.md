@@ -1,0 +1,1 @@
+El siguiente es el diagrama de casos de uso del software de evidencias y notas que muestra las acciones que pueden realizar los profesores y estudiantes dentro de la aplicación.
