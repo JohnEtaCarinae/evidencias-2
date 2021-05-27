@@ -1,6 +1,6 @@
 ### Listado general de casos de uso.
 | Código | Nombre corto | Prioridad  | |
-|--------------------------|--------------------------------|--------------------------|
+|--------------------------|--------------------------------|--------------------------|--------------------------|
 | [CU01](CU01-Guardar-un-usuario-nuevo) | Guardar un usuario nuevo | Alta | Completado |
 | [CU02](CU02-Iniciar-sesión) | Iniciar sesión | Alta | No completado |
 | [CU03](CU03-Recuperar-contraseña) | Recuperar contraseña | Baja | No completado |
